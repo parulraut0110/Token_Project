@@ -31,7 +31,7 @@ The contract contains two primary operations, known as "mint" and "burn."
 
 ## HELP OFF !!
 
-"The project beneficial from the invaluable guidance provided, and in the presence of a highly supportive community was a Notable asset."
+The project beneficial from the invaluable guidance provided, and in the presence of a highly supportive community was a Notable asset.
 
 ## AUTHORIZER
 PARUL RAUT
