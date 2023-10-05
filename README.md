@@ -5,7 +5,9 @@ This is the basic Solidity smart contract below!
 This Solidity smart contract contains various features to manage a custom token. It includes two public variables: 
 1. Strings as the token's name. (nature)
 2. Strings as the token's abbreviation. (water)
+
 The contract also contain a variable uint that keeps track of the total token supply which I assigned as a zero. 
+
 To manage user balances, there is a mapping variable named "balances" that connects addresses with their corresponding token balances.
 
 The other most important part of this contract is to mint and burn token!!
